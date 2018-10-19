@@ -9,7 +9,7 @@ const App = () => {
     return (<div>
         <SearchBar />
     </div>
-    ); // search
+    ); // search MORE CHANGES NMORE
 }
 
 ReactDOM.render(<App />, document.querySelector('.container'));
